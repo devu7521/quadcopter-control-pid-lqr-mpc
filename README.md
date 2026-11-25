@@ -45,7 +45,7 @@ A MATLAB/Simulink simulation of a quadcopter that compares three flight controll
 
 | PID | LQR | MPC (turbulent wind) |
 |---|---|---|
-| ![PID](results/pid_result.png) | ![LQR](results/lqr_result.png) | ![MPC under turbulent wind](results/mpc_turbulent_wind.png) |
+| ![PID](pid_result.png) | ![LQR](lqr_result.png) | ![MPC under turbulent wind](mpc_turbulent_wind.png) |
 
 ## Skills demonstrated
 
